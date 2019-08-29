@@ -1,6 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/elyphas/Prjs/outwatch_websocket/server/src/main/scala/covenant/Covenant.scala:26:12: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : scala.util.Right[Nothing,String][0m
-[0m[[0m[31merror[0m] [0m[0m required: scala.concurrent.Future[covenantBackend.Covenant.Dsl.ApiData.Action[Either[String,String]]][0m
-[0m[[0m[31merror[0m] [0m[0m      Right("pong")[0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

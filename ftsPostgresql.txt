@@ -1,1 +1,0 @@
-select cve_articulo, substring(descripcion,1,30) as descr, to_tsvector(descripcion) @@ to_tsquery('BOLIGRAFOS:* & AZUL') as result from tblartic where partida = '21101';
