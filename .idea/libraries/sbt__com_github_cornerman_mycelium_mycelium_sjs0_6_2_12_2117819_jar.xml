@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.cornerman.mycelium:mycelium_sjs0.6_2.12:2117819:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.cornerman.mycelium/mycelium_sjs0.6_2.12/jars/mycelium_sjs0.6_2.12-2117819.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.github.cornerman.mycelium/mycelium_sjs0.6_2.12/srcs/mycelium_sjs0.6_2.12-2117819-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

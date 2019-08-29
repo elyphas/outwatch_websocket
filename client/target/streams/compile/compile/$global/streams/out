@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/elyphas/Prjs/outwatch_websocket/client/src/main/scala/manik1/manik1/ScalaJSExample.scala:33:38: not found: value hdlMsg[0m
+[0m[[0m[31merror[0m] [0m[0m        sp( cls := "messageRecords", hdlMsg )[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
